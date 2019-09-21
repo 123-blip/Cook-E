@@ -2,12 +2,12 @@ body {
   margin: 0px;
   background: rgb(240, 240, 240);
   color: rgb(20, 20, 20);
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
 	font-size: 18px;
   font-weight: lighter;
 }
 h1, h2, h3 {
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
   font-weight: bold;
 }
 h1 {
